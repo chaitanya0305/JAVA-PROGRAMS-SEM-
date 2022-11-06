@@ -4,10 +4,7 @@ import java.awt.event.*;
 
 class Calculator implements ActionListener {
 
-Frame f = new Frame("Login");
-Label l1 = new Label("Name"); 
-Label l2 = new Label("Password");
-Label l3 = new Label("Result"); 
+
 
 TextField t1 = new TextField();
 TextField t2 = new TextField();
